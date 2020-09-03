@@ -73,4 +73,4 @@ def analyze_url():
 # 	return render_template('compare_summary.html',ctext=rawtext,final_summary_nltk=final_summary_nltk,final_time=final_time,final_reading_time=final_reading_time,summary_reading_time_nltk=summary_reading_time_nltk)
 
 if __name__ == '__main__':
-	app.run(debug=True)
+	app.run()
