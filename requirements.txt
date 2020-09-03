@@ -4,7 +4,7 @@ nltk==3.4
 Flask==1.0.2
 spacy==2.3.2
 https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-2.2.0/en_core_web_sm-2.2.0.tar.gz#egg=en_core_web_sm
-sumy==2.0.18
+sumy==0.7.0
 thinc==6.12.1
 urllib3==1.24.1
 gensim==3.8.3
